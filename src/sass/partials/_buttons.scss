@@ -1,0 +1,35 @@
+.btn-primary {
+	width: 65%;
+	height: auto;
+	padding: 0.4em;
+	font-size: 1.2rem !important;
+	font-weight: bold;
+	background-color: $clr-cta;
+	border: none;
+	border-radius: 9999px;
+}
+
+.btn-primary:hover {
+	background-color: $clr-cta-hover !important;
+}
+.btn.active {
+	background-color: $clr-cta !important;
+}
+.btn.active:hover {
+	background-color: $clr-cta-hover !important;
+	color: $clr-text !important;
+}
+.post-btn:hover {
+	color: $clr-text !important;
+}
+.delete {
+	border: 2px solid $clr-alert !important;
+	background-color: transparent !important;
+}
+.delete:hover {
+	color: $clr-alert !important;
+	background-color: none !important;
+}
+.btn-logout {
+	color: $clr-text !important;
+}
