@@ -1,4 +1,4 @@
-# Your project title
+# Howler! - A social media platform
 
 ![image](https://drive.google.com/uc?id=1u3fpRLWlPSfYNoubuEK7UIO3TNoVkZyt)
 
