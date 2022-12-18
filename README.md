@@ -5,7 +5,9 @@
 ## Description
 
 This project is the final project exam i had when attending Noroff Higher Vocational College for my Frontend development education.
-We were tasked to make an social media platform with [Noroff's API](https://noroff-api-docs.netlify.app), it is made with students and staff in mind as you can only register with an @stud.noroff.no or @noroff.no email.
+We were tasked to make an social media platform with [Noroff's API](https://noroff-api-docs.netlify.app), it is made with students and staff in mind as you can only register with an ``@stud.noroff.no`` or ``@noroff.no`` email.
+
+**___NB! No confirmation on the email is needed and no forgot password function implemented.___**
 
 On the platform you can create posts with or without images and you can comment and react with emojis on the post you and/others have created.
 You can also follow and be followed by others, add a profile image/avatar and profile banner.
