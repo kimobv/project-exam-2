@@ -4,10 +4,10 @@
 
 ## Description
 
-This project is the final project exam i had when attending Noroff Higher Vocational College for my Frontend development education.
+This project is the final project exam i had when attending Noroff Higher Vocational College for my front-end development education.
 
-You can read the assigment text [here,](https://github.com/kimobv/project-exam-2/blob/main/README.old.md)
-and the Readme I submitted alongside the task [here.](https://github.com/kimobv/project-exam-2/blob/main/README.old2.md)
+You can read the assignment text [here](https://github.com/kimobv/project-exam-2/blob/main/README.old.md),
+and the Readme I submitted alongside the task [here](https://github.com/kimobv/project-exam-2/blob/main/README.old2.md).
 
 We were tasked to make an social media platform with [Noroff's API](https://noroff-api-docs.netlify.app), it is made with students and staff in mind as you can only register with an ``@stud.noroff.no`` or ``@noroff.no`` email.
 
@@ -43,8 +43,6 @@ npm install
 
 ### Running
 
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
-
 To run the app, run the following commands:
 
 ```bash
@@ -54,7 +52,7 @@ npm run start
 ## Using the platform
 
 You can register and login to the platform using a faux email, the only criteria is that you use either ``@stud.noroff.no`` or ``@noroff.no`` when registering your user.
-Also keep in mind that the email you use to register and login with is **___case sensitive___** as of now, so if you capitalize any letters when registering you will need to have the **___same formatting___ when logging in.**
+Also keep in mind that the email you use to register and login with is **___case-sensitive___** as of now, so if you capitalize any letters when registering you will need to have the **___same formatting___ when logging in.**
 
 if you don't wish to register you can log in and test the platform using these credentials:
 ```
