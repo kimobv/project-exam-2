@@ -5,6 +5,10 @@
 ## Description
 
 This project is the final project exam i had when attending Noroff Higher Vocational College for my Frontend development education.
+
+You can read the assigment text [here,](https://github.com/kimobv/project-exam-2/blob/main/README.old.md)
+and the Readme I submitted alongside the task [here.](https://github.com/kimobv/project-exam-2/blob/main/README.old2.md)
+
 We were tasked to make an social media platform with [Noroff's API](https://noroff-api-docs.netlify.app), it is made with students and staff in mind as you can only register with an ``@stud.noroff.no`` or ``@noroff.no`` email.
 
 **___NB! No confirmation on the email is needed and no forgot password function implemented.___**
