@@ -27,6 +27,8 @@ You are able to edit and delete posts as well.
 
 ## Getting Started
 
+You can see the platform live [here!](https://howler-app.netlify.app)
+
 ### Installing
 
 1. Clone the repo:
