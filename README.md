@@ -2,35 +2,31 @@
 
 ![image](https://drive.google.com/uc?id=1u3fpRLWlPSfYNoubuEK7UIO3TNoVkZyt)
 
-A simple overview of the use/purpose of the project.
-
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+This project is the final project exam i had when attending Noroff Higher Vocational College for my Frontend development education.
+We were tasked to make an social media platform with [Noroff's API](https://noroff-api-docs.netlify.app), it is made with students and staff in mind as you can only register with an @stud.noroff.no or @noroff.no email.
 
-You can add some bullet points if you'd like to:
+On the platform you can create posts with or without images and you can comment and react with emojis on the post you and/others have created.
+You can also follow and be followed by others, add a profile image/avatar and profile banner.
 
-- List item 1
-- List item 2
-- List item 3
+You are able to edit and delete posts as well.
 
 ## Built With
 
-You can list a the tech stack that you've used over here
-
 - [React.js](https://reactjs.org/)
 - [Bootstrap](https://getbootstrap.com)
+- [SASS](https://sass-lang.com)
+
 
 ## Getting Started
 
 ### Installing
 
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
-
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
+git clone git@github.com:kimobv/project-exam-2.git
 ```
 
 2. Install the dependencies:
@@ -49,9 +45,16 @@ To run the app, run the following commands:
 npm run start
 ```
 
-## Contributing
+## Using the platform
 
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+You can register and login to the platform using a faux email, the only criteria is that you use either ``@stud.noroff.no`` or ``@noroff.no`` when registering your user.
+Also keep in mind that the email you use to register and login with is **___case sensitive___** as of now, so if you capitalize any letters when registering you will need to have the **___same formatting___ when logging in.**
+
+if you don't wish to register you can log in and test the platform using these credentials:
+```
+email: lemon@stud.noroff.no
+password: 123Passord
+```
 
 ## Contact
 
